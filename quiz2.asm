@@ -1,7 +1,7 @@
 section .data
-    a dd 10            ; Initialize a to 10
-    b dd 5             ; Initialize b to 5
-    c dd 20            ; Initialize c to 20
+    a dd 5            ; Initialize a to 5
+    b dd 10             ; Initialize b to 10
+    c dd 15            ; Initialize c to 15
     d dd 2             ; Initialize d to 2
 
 section .bss
